@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="test-projekt1-pk"
